@@ -1,7 +1,7 @@
 # Desafio DevOps jr PicPay
 
->Neste projeto, atualizei o Dockerfile das imagens para melhorar a estrutura e a funcionalidade do ambiente de desenvolvimento e produção. Abaixo estão os detalhes das mudanças realizadas:
->
+Neste projeto, atualizei o Dockerfile das imagens para melhorar a estrutura e a funcionalidade do ambiente de desenvolvimento e produção. Abaixo estão os detalhes das mudanças realizadas:
+
 ## Dockerfile da Imagem Node.js do Frontend
 >
 >## Versão Anterior:
